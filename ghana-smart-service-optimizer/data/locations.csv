@@ -1,0 +1,51 @@
+locationId,name,area,type,coordinates
+L001,Balme Library,Central Campus,Academic,5.648525;-0.194947
+L002,Great Hall,Central Campus,Landmark,5.643085;-0.190972
+L003,JQB (John Quartey Block),Central Campus,Academic,5.652962;-0.188376
+L004,N-Block,Central Campus,Academic,5.64577;-0.189493
+L005,Legon Hall,Legon Hall Precinct,Hostel,5.647208;-0.180268
+L006,Commonwealth Hall,Commonwealth Precinct,Hostel,5.653938;-0.18576
+L007,Akuafo Hall,Akuafo Precinct,Hostel,5.656119;-0.196898
+L008,Volta Hall,Volta Precinct,Hostel,5.650788;-0.194855
+L009,Mensah Sarbah Hall,Sarbah Precinct,Hostel,5.652893;-0.188549
+L010,International Students Hostel,ISH Precinct,Hostel,5.652649;-0.182913
+L011,Jean Nelson Aka Hall,JNA Precinct,Hostel,5.654439;-0.189287
+L012,Elizabeth Sey Hall,Elizabeth Sey Precinct,Hostel,5.646444;-0.191592
+L013,Alexander Kwapong Hall,Pentagon,Hostel,5.646314;-0.181205
+L014,Jubilee Hall,Pentagon,Hostel,5.656979;-0.181838
+L015,Evandy Hall,Pentagon,Hostel,5.655725;-0.195629
+L016,Bani Hall,Pentagon,Hostel,5.650775;-0.192085
+L017,Department of Computer Science,North Campus,Academic,5.65638;-0.18726
+L018,School of Engineering Sciences,North Campus,Academic,5.644442;-0.179473
+L019,Business School (UGBS),North Campus,Academic,5.652182;-0.187258
+L020,School of Law,Central Campus,Academic,5.659071;-0.185778
+L021,Noguchi Memorial Institute,Korle-Bu Link,Lab,5.651806;-0.179331
+L022,Physics Department Labs,North Campus,Lab,5.65722;-0.18811
+L023,Chemistry Department Labs,North Campus,Lab,5.655615;-0.185963
+L024,Biological Sciences Labs,North Campus,Lab,5.653265;-0.185373
+L025,Central Cafeteria (Diaspora Kitchen),Central Campus,Dining,5.659112;-0.181544
+L026,Night Market,Commercial Area,Dining,5.650302;-0.18534
+L027,Bush Canteen,Commercial Area,Dining,5.646045;-0.194426
+L028,University Sports Stadium,Sports Complex,Sports,5.655144;-0.181441
+L029,Indoor Sports Hall,Sports Complex,Sports,5.658977;-0.194703
+L030,Swimming Pool Complex,Sports Complex,Sports,5.658678;-0.193231
+L031,Main Administration Block,Central Campus,Admin,5.642895;-0.193635
+L032,Registry,Central Campus,Admin,5.653077;-0.195139
+L033,Finance Directorate,Central Campus,Admin,5.649528;-0.19626
+L034,University Health Services,Central Campus,Health,5.650242;-0.183872
+L035,Legon Hospital Annex,Central Campus,Health,5.655761;-0.183508
+L036,Shuttle Terminal - Main Gate,Main Gate,Transport,5.659205;-0.189298
+L037,Shuttle Terminal - Okponglo,Okponglo Gate,Transport,5.651742;-0.185146
+L038,Shuttle Terminal - Commonwealth,Commonwealth Precinct,Transport,5.648613;-0.178659
+L039,Shuttle Terminal - Pentagon,Pentagon,Transport,5.654262;-0.187698
+L040,Central Maintenance Workshop,Service Yard,Maintenance,5.647638;-0.193498
+L041,IT Services Directorate,North Campus,Maintenance,5.648178;-0.178516
+L042,Electrical Services Unit,Service Yard,Maintenance,5.655085;-0.178788
+L043,Water & Plumbing Unit,Service Yard,Maintenance,5.640415;-0.177392
+L044,ICT Directorate Data Centre,North Campus,Maintenance,5.656287;-0.192444
+L045,University Bookshop,Commercial Area,Retail,5.646006;-0.185789
+L046,Ecobank Legon Branch,Commercial Area,Retail,5.656859;-0.182558
+L047,GCB Bank Legon Branch,Commercial Area,Retail,5.659621;-0.193542
+L048,Legon Botanical Gardens,West Campus,Recreation,5.640593;-0.178337
+L049,Trinity Theological Seminary Link,West Campus,Academic,5.653891;-0.189867
+L050,Okponglo Junction Gate,Okponglo Gate,Transport,5.646087;-0.181629

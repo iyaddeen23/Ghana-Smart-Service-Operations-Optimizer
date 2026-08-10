@@ -1,0 +1,31 @@
+resourceId,type,homeLocation,capacity,availabilityStatus
+RES001,Maintenance Van,L026,8,Off-Duty
+RES002,Cleaning Crew,L011,6,Available
+RES003,Electrician Team,L026,2,Busy
+RES004,Security Patrol,L037,1,Available
+RES005,Plumber Team,L026,8,Off-Duty
+RES006,Security Patrol,L047,2,Busy
+RES007,Electrician Team,L013,8,Available
+RES008,Medical Responder,L006,4,Under Repair
+RES009,Plumber Team,L008,5,Available
+RES010,Maintenance Van,L001,7,Available
+RES011,Plumber Team,L013,2,Available
+RES012,Shuttle Bus,L026,3,Available
+RES013,Shuttle Bus,L011,8,Available
+RES014,Electrician Team,L042,3,Off-Duty
+RES015,Cleaning Crew,L049,8,Off-Duty
+RES016,Maintenance Van,L020,1,Available
+RES017,Shuttle Bus,L043,8,Off-Duty
+RES018,Maintenance Van,L013,2,Off-Duty
+RES019,Cleaning Crew,L049,4,Available
+RES020,IT Technician,L047,2,Available
+RES021,Maintenance Van,L044,8,Under Repair
+RES022,Shuttle Bus,L045,3,Off-Duty
+RES023,Shuttle Bus,L023,6,Available
+RES024,Plumber Team,L039,7,Busy
+RES025,Security Patrol,L029,7,Available
+RES026,Cleaning Crew,L016,2,Under Repair
+RES027,Medical Responder,L008,2,Available
+RES028,Plumber Team,L021,1,Available
+RES029,Maintenance Van,L048,7,Available
+RES030,Plumber Team,L023,4,Available
