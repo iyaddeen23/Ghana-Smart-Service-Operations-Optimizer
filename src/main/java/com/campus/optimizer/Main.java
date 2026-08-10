@@ -1,5 +1,6 @@
 package com.campus.optimizer;
 
+import com.campus.optimizer.algorithms.sort.InsertionSort;
 import com.campus.optimizer.structures.LinkedList;
 import com.campus.optimizer.structures.Stack;
 
@@ -24,8 +25,19 @@ public class Main {
         stack.push("Wakay");
         stack.push("Yeng");
         stack.push("Jace");
-
-        System.out.println("Size of stack: " + stack.count);
+        System.out.println("\nSize of stack: " + stack.count);
         System.out.println("Top most element is " + stack.top());
+
+        // Testing insertion sort algorithm
+        int[] arr = {5, 2, 9, 1, 5, 6};
+        System.out.println("Array before sorting: ");
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+        InsertionSort.Sort(arr);
+        System.out.println("\nArray after sorting: ");
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
     }
 }
